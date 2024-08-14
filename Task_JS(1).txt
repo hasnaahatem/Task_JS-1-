@@ -1,0 +1,19 @@
+1-var cof=5;
+var water=3;
+var Totel_cost=cof+water;
+var str="Totel cost: $";
+document.write(str+Totel_cost);
+alert(str+Totel_cost);
+
+
+
+2-var myName = "Hasnaa";
+var cof = 5;
+var water = 3;
+var totalCost = cof + water;
+
+var message = `My name: ${myName}
+The total cost: $${totalCost}`;
+
+document.write(message);
+alert(message);
